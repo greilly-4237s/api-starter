@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added healthcheck endpoint stub
 - Reorganised test fixtures
 - Tested build on clean environment
+
+## 2026-04-22
+- Investigated performance bottleneck, noted findings
