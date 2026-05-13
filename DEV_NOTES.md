@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Tidied up project structure
+
+## 2026-05-13
+- Added basic usage examples to README
+- Tidied up project structure
+- Cross-checked behaviour against spec
